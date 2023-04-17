@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-darkmode/static/css/main.073c9b0a.css",
+    "main.js": "/react-darkmode/static/js/main.c1e52ee4.js",
+    "static/js/787.1052c8cf.chunk.js": "/react-darkmode/static/js/787.1052c8cf.chunk.js",
+    "static/media/logo.svg": "/react-darkmode/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-darkmode/index.html",
+    "main.073c9b0a.css.map": "/react-darkmode/static/css/main.073c9b0a.css.map",
+    "main.c1e52ee4.js.map": "/react-darkmode/static/js/main.c1e52ee4.js.map",
+    "787.1052c8cf.chunk.js.map": "/react-darkmode/static/js/787.1052c8cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1e52ee4.js"
+  ]
+}
