@@ -38,7 +38,7 @@ nav.dark {
 }
 
 .nav--logo_text {
-    color: #bb61fb;
+    color: #6cbff7;
     margin-right: auto;
 }
 
@@ -141,5 +141,5 @@ main.dark {
 
 .main--facts > li::marker {
     font-size: 1.4rem;
-    color: #c185f6;
+    color: #6cbff7;
 }

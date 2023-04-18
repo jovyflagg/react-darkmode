@@ -1,4 +1,4 @@
-import logo from "../images/logo-darkmode.png"
+import logo from "../images/logo-lightmode.png"
 
 export default function Navbar(props) {
 
